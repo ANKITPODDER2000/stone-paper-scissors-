@@ -26,3 +26,15 @@
         >> from google.colab import files
         >> files.upload()
     these two lines! , this is very very important .
+************************************************    
+## Accurecy & CrossEntropy Graph
+     Max acc for training dataset -> 100%
+     Max acc for testing  dataset -> 100%
+    
+<img src = "./accurecy_loss.png" />
+
+*************************************************
+
+## Final Output of this NoteBook
+
+<img src = "./output.png" />
