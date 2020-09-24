@@ -1,7 +1,7 @@
 # stone-paper-scissors
 
 **********************************************
-    Remove # (un-comment the commented statement) 
+    Remove # (un-comment the commented statements) 
         >> TRAIN_URL = "https://storage.googleapis.com/download.tensorflow.org/data/rps.zip"             #code block  --> 8
         >> TEST_URL = "https://storage.googleapis.com/download.tensorflow.org/data/rps-test-set.zip"
         
@@ -38,3 +38,5 @@
 ## Final Output of this NoteBook
 
 <img src = "./output.png" />
+
+# Happy Coding
